@@ -1,6 +1,6 @@
 [
   {
-      "chainId": 1,
+      "chainId": 3,
       "saleManagerAddress": "0x8974473144Ed321B97dD08d9931933677bb0e3f0",
       "saleId": "0x7858e1f60df6d913c7abb2ce5ebd0e4ac99c7120866a99d9f144c9ff801a7793",
       "saleName": "XX:IV",
@@ -24,7 +24,7 @@
       ]
   },
   {
-      "chainId": 1,
+      "chainId": 3,
       "saleManagerAddress": "0x8974473144Ed321B97dD08d9931933677bb0e3f0",
       "saleId": "0x7858e1f60df6d913c7abb2ce5ebd0e4ac99c7120866a99d9f144c9ff801a7793",
       "saleName": "Quetzalcoatl",
