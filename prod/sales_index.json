@@ -27,23 +27,23 @@
       "chainId": 3,
       "saleManagerAddress": "0x8974473144Ed321B97dD08d9931933677bb0e3f0",
       "saleId": "0x7858e1f60df6d913c7abb2ce5ebd0e4ac99c7120866a99d9f144c9ff801a7793",
-      "saleName": "Quetzalcoatl",
-      "logo": "https://upload.wikimedia.org/wikipedia/commons/2/23/Quetzalcoatl_V.svg",
-      "favicon": "https://upload.wikimedia.org/wikipedia/commons/2/23/Quetzalcoatl_V.svg",
-      "projectWebsite": "https://en.wikipedia.org/wiki/Quetzalcoatl",
-      "saleDescription": "Quetzalcoatl Sale",
+      "saleName": "XX:IV",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/1/14/Hell0_Darinzo.jpg",
+      "favicon": "https://en.wikipedia.org/wiki/Lysergic_acid_diethylamide#/media/File:Hell0_Darinzo.jpg",
+      "projectWebsite": "https://en.wikipedia.org/wiki/Microdosing",
+      "saleDescription": "IV:XX — it is not just a phrase «four-twenty» or simple numbers, it is a symbol of moral freedom from external influences and influencers.",
       "access": {
       },
       "socials": {
-        "twitter": "https://twitter.com/qtz",
-        "discord": "https://discord.gg/qtz",
-        "telegram": "https://t.me/qtz"
+        "twitter": "https://twitter.com/LaryMasa",
+        "discord": "https://discord.gg/PE7QyhJKq2",
+        "telegram": "https://t.me/+t6GUPJOoAhtjMmEy"
       },
       "documents": [
         {
           "name": "Purchase Agreement",
           "uri": "https://example.com/qtz.pdf",
-          "appendSignaturePageUri": "s3://job-queue-data/safts/annex.pdf"
+          "appendSignaturePageUri": "https://pdf.ac/14PA5t"
         }
       ],
       "hidden": true
