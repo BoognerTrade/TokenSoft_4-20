@@ -1,4 +1,3 @@
-# Tokensoft Launchlists
 A JSON Schema, called Launch List, a unified way for web3 projects to decentralize contextual information and metadata about 
 their smart contract-based token sales or auctions.
 
